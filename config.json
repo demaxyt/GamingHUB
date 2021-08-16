@@ -1,0 +1,9 @@
+{
+	"ip":"DragonSmp23.aternos.me",
+	"port": "15759",
+	"name": "GamingHUB",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (aarozgamer) (aarozgamer))",
+	"login-cmd":"/login (aarozgamer)"
+}
